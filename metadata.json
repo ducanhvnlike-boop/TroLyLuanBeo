@@ -1,0 +1,6 @@
+{
+  "name": "Trợ Lý Báo Cáo Công An Phường - Chuẩn Nghị Định 30",
+  "description": "Hệ thống hỗ trợ cán bộ Công an Phường phân tích tài liệu, tra cứu dữ liệu số liệu nghiệp vụ và soạn thảo báo cáo hành chính chuyên sâu từ 3-5 trang A4. Tác giả: Quốc Đại.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
